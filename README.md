@@ -1,2 +1,2 @@
-# test
-solutions to bit manipulation problems interview Bit
+# BIT MANIPULATION
+Solutions to bit manipulation problems interview Bit
